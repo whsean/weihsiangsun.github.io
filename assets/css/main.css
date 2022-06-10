@@ -2285,3 +2285,6 @@ button,
 
      p { margin-bottom: 1em; }
      
+     img {
+      pointer-events: none;
+  }
